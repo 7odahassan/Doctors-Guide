@@ -1,99 +1,29 @@
 ---
-title: Markdown Examples
-date: 2021/3/19
+title: سعر عملية تحويل المسار
+date: 2021/10/10
 description: View examples of all possible Markdown options.
 tag: web development
 author: You
 ---
 
-# Markdown Examples
+# سعر عملية تحويل المسار
 
-## h2 Heading
+تعد عملية تحويل مسار المعدة من أكثر العمليات التي انتشرت مؤخراً بغرض تخفيض الوزن و إنقاص كتلة الدهون في الجسم؛ لذلك لجأ إليها الكثير من الأشخاص حول العالم لأنها بالفعل تُعطي نتائج رائعة و تنجح في خفض الوزن بنسبة كبيرة خلال عدة أشهر.
 
-### h3 Heading
+[سعر عملية تحويل المسار](https://drahmedibrahim.com/%D8%A7%D9%81%D8%B6%D9%84-%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D9%85%D8%B3%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/) المعدة في مصر:
 
-#### h4 Heading
+تعد تكلفة العمليات المرتبطة بإنقاص الوزن مرتفعة إلي حد كبير، و ذلك أمر طبيعي، فبالنظر إلي مدي دقة العملية، الأمر الذي يحتاج إلي طبيب يتمتع بخبرة كبيرة جداً مما يعني أجر أعلي.
 
-##### h5 Heading
+وكذلك الأمر بالنسبة لسعر عملية تحويل مسار المعدة في مصر فهي تعد باهظة، ولكن إذا ما قورنت بتكاليفها في بعض الدول العربية المجاورة، سوف نجد أن مصر تقدم أفضل الأسعار.
 
-###### h6 Heading
+و تبدأ أسعار عمليات تحويل مسار المعدة في مصر من حوالي 3000 دولار وحتي 8000 دولار، وممكن أن تزيد هذه التكلفة أو تقل تبعاً للحالة و أجر الطبيب الذي يجري العملية.
 
-## Emphasis
+كما تختلف أسعار عمليات تحويل مسار المعدة المصغر عن عملية تحويل مسار المعدة، إذ تتراوح أسعار تحويل مسار المعدة المصغرة بين 2500 دولار و 6000 دولار، ويأتي ذلك الإختلاف علي حسب شهرة الطبيب و المركز الطبي وعوامل أخري.
 
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Develop. Preview. Ship. – Vercel
-
-## Lists
-
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
-
-## Tables
-
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-
-## Links
-
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
-
-### Footnotes
-
-- Footnote [^1].
-- Footnote [^2].
-
-[^1]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^2]: Footnote text.
+مركز سيتي كلينك ( Citi Clinic )
+المركز خاص بالدكتور احمد ابراهيم، أستاذ جراحات السمنة و السكر والمناظير في كلية الطب بجامعة عين شمس.
+قدم مركز سيتي كلينك الخاص بالدكتور احمد ابراهيم أحدث التقنيات لجراحات السمنة و السكر التي تشمل :
+عملية تحويل المسار المصغر المعدل المؤمن.
+ عملية تكميم المعدة و المعيار الذهبي الجديد و الحديث.
+عملية ثنائي التقسيم التي تجمع بين عملية تكميم المعدة و تحويل المسار المصغر.
+ـ العنوان:  ١٢ شارع بطرس غالى مصر الجديدة ، مصر الجديدة – محافظة القاهرة.
